@@ -61,3 +61,12 @@ To obtain a Data Hub:
 1. **Register** interest in a Data Hub. Here a prospective coordinator completes a registration form. This will include questions related to what the Data Hub will be used for and how many users would be associated with it. Once approved, a Data Hub is assigned and the prospective coordinator can move on to the next step.
 2. **Setup** the Data Hub. The coordinator must include descriptions of the Data Hub and link users to the Data Hub. Users will automatically receive credentials.
 3. **Use** the Data Hub. Fig.1 expands on this stage for an example use-case. Overall data can be linked (at the ENA Project level) to the Data Hub, and therefore associated users. Data can also be queried and retrieved once linked to the Data Hub.
+
+.. toctree::
+    :caption: ENA Data Hub Usage
+    :maxdepth: 1
+
+    register
+    manage
+    share
+    retrieval
