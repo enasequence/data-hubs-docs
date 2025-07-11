@@ -11,3 +11,10 @@ Logging in with credentials is not required, and the page is accessible to all u
 **Figure 1**. ‘Explore’ tab view displaying list of all active Data Hubs in ENA. (Note that for some Data Hubs a description was not provided at set-up).
 
 You can click on the name of any Data Hub to view a dashboard showing an overview of all data holdings therein. See the `Data Hub Dashboard page <dashboard.rst>`_ for more information.
+
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Explore Subpages
+
+   dashboard
