@@ -64,9 +64,10 @@ To obtain a Data Hub:
 
 .. toctree::
     :caption: ENA Data Hub Usage
-    :maxdepth: 1
+    :maxdepth: 2
 
     register
     manage
     share
     retrieval
+    explore
