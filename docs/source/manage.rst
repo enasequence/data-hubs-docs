@@ -13,6 +13,7 @@ Where you have coordinator permissions on a Data Hub, you will see an edit icon 
 **Figure 1**. ‘Manage’ tab view displaying Data Hubs associated with your login. The edit menu highlighted by green arrows indicates which data hubs you have coordinator privileges for.
 
 From these menus, you can begin to manage your Data Hub settings:
+
 * **General**: view Data Hub names/topic, add display name, or update description
 * **Users**: view and add users, and update their roles
 
@@ -24,6 +25,7 @@ From these menus, you can begin to manage your Data Hub settings:
 Coordinator Role
 ----------------
 By requesting a new Data Hub, a coordinator agrees to handle overall management of the Data Hub. This includes, and is not limited to:
+
 * Providing appropriate Data Hub or data descriptions.
 * Managing what users are added or removed from the Data Hub.
 * Defining user roles for the Data Hub.
