@@ -9,6 +9,7 @@ For a request, the coordinator must have a valid Webin account (e.g. Webin-XXXXX
 Once a coordinator submits the request, the ENA’s support team is notified and will assess the request, prior to assigning the Data Hub (if approved), within 2 working days.
 
 The registration form enables the ENA to better understand the requirement for a Data Hub. This will be used by the ENA’s support team to approve a request. Aspects that are taken into consideration include:
+
 * The length of time that the Data Hub would be required for.
 * The number of data providers and consumers there will be for the Data Hub.
 * The number of institutes and their geographic spread.
