@@ -2,7 +2,7 @@
 Registering for a Data Hub
 ==========================
 
-To obtain a Data Hub, a user must register interest, via the form on the `Data Hubs Portal <https://www.ebi.ac.uk/ena/datahubs/request-datahub#request-data-hub>`_. This is to be completed by a coordinator of the Data Hub.
+To obtain a Data Hub, a user must register interest, via the form on the `Data Hubs Portal <https://www.ebi.ac.uk/ena/datahubs/request-datahub#request-data-hub>`_ . This is to be completed by a coordinator of the Data Hub.
 
 For a request, the coordinator must have a valid Webin account (e.g. Webin-XXXXX). To register for a Webin account, see here: <https://www.ebi.ac.uk/ena/submit/webin/login>. Coordinators must also provide their name, email address (preferably institutional), affiliation, and information about the prospective Data Hub. This includes an estimate for the number of users, how long it is required for, and the overall reason for request.
 
